@@ -5,6 +5,7 @@
 * :computer: Hoje meu foco está voltado para React Native e React.JS
 * :dart: Tenho como objetivo fazer diferença no mundo
 
+
 ## Contato
 
 * :mailbox_with_no_mail: bruno-monassa@hotmail.com
