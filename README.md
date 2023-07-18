@@ -10,7 +10,7 @@
 ## Contato
 
 * <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> https://www.linkedin.com/in/bruno-monassa-5267431bb/
-*  :mailbox_with_no_mail: bruno-monassa@hotmail.com
+*   :mailbox_with_no_mail: bruno-monassa@hotmail.com
 
 ## Tecnologias
 
