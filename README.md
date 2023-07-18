@@ -10,7 +10,7 @@
 ## Contato
 
 * :mailbox_with_no_mail: bruno-monassa@hotmail.com
-* Linkedin: https://www.linkedin.com/in/bruno-monassa-5267431bb/
+*  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> https://www.linkedin.com/in/bruno-monassa-5267431bb/
 
 ## Tecnologias
 
@@ -20,7 +20,6 @@
   <img align="center" alt="Bruno-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
  
 </div>
 
