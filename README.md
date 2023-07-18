@@ -5,6 +5,7 @@
 * :computer: Hoje meu foco hoje é React Native e React.JS
 * :dart: Acredito que adquirindo conhecimento posso fazer a diferença localmente e mais à frente também no mundo. Sou apaixonado pelo que faço e também acredito que isso é um diferencial na construção do dia-a-dia.
 
+![thumbs-up](https://user-images.githubusercontent.com/91953401/187507353-51142667-53b2-43ef-9204-629f07648fd5.gif)
 
 ## Contato
 
@@ -24,4 +25,4 @@
  ##
 
 
-![thumbs-up](https://user-images.githubusercontent.com/91953401/187507353-51142667-53b2-43ef-9204-629f07648fd5.gif)
+
