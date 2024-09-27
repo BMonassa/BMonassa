@@ -2,7 +2,7 @@
 
 
 * :wave: Hello! My name is Bruno Monassa, and I am 24 years old.
-* :computer: My current focus is on React Native and React.js.
+* :computer: My current focus is mobile application (React Native)
 * :dart: I believe that by acquiring knowledge, I can make a difference locally and, in the future, globally as well. I am passionate about what I do, and I also believe this is a key differentiator in building day-to-day success.
 
 ## Contact
