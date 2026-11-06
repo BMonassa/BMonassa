@@ -1,17 +1,28 @@
-## Who am I?
+# Hi, I'm Bruno Monassa
 
+Full stack software engineer in São Paulo, working across web, mobile and backend since 2020.
 
-* :wave: Hello! My name is Bruno Monassa, and I am 24 years old.
-* :computer: My current focus is mobile application
-* :dart: I believe that by acquiring knowledge, I can make a difference locally and, in the future, globally as well. I am passionate about what I do, and I also believe this is a key differentiator in building day-to-day success.
+**Portfolio:** [bmonassa.github.io](https://bmonassa.github.io/)
+
+## What I'm building
+
+- **[Purp](https://apps.apple.com/us/app/purp-make-new-friends/id1562883907)**: Full Stack Engineer and first developer hired. An app for making friends around the world, on iOS and Android, with 5M+ downloads on Google Play.
+- **[Looopa](https://looopa.app)**: creator and developer. A social network for finding people with shared interests, built with React Native, Node.js and Firebase.
+- **[Ambulante Simulator](https://bmonassa.github.io/ambulante-simulator-site/)**: creator and developer. A multiplayer voice game set on Copacabana beach, built in Godot and on its way to Steam.
+- **[PetHero](https://www.instagram.com/petherooficial/)**: co-founder. The first low-stress pet shop in Niterói, Brazil.
+
+## Tech
+
+| Area | Tools |
+| --- | --- |
+| Mobile | React Native, Flutter |
+| Web | React, Next.js, Vue, TypeScript, JavaScript |
+| Backend | Node.js, Java, Spring Boot, Python, GraphQL, REST, Firebase |
+| Data | PostgreSQL, MySQL, MongoDB, Redis |
+| Cloud and DevOps | AWS, Docker, CI/CD |
+| Games | Godot, Unreal Engine |
 
 ## Contact
 
-<img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> https://www.linkedin.com/in/bruno-monassa-5267431bb/
-
-![thumbs-up](https://user-images.githubusercontent.com/91953401/187507353-51142667-53b2-43ef-9204-629f07648fd5.gif)
-##
-
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/bruno-monassa-desenvolvedor-mobile-web-developer-reactnative-react-typescript-graphql-nodejs/)
+- bruno-monassa@hotmail.com
